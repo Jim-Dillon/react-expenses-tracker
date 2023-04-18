@@ -20,3 +20,8 @@ This app is a tracker for personal/business expenses, created using React compon
 5. Conditionals to check if an entered input is valid
 6. Styling 
 
+## Usage 
+
+1. Clone this repo
+2. Run `npm install`
+3. Open site as live server by running `npm start`
